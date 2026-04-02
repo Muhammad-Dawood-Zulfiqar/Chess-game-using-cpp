@@ -11,18 +11,16 @@ A fully functional, interactive 2D chess game built entirely in C++. This projec
 * **Interactive UI:** Smooth mouse-driven controls powered by SFML.
 
 ## 📸 Screenshots
+
+### StartUp Menu
 ![Media1 (1)](https://github.com/user-attachments/assets/5649eb55-f6b2-4ea1-bc4a-0136e40fee71)
+
+
+### Gameplay Overview
 ![Media1](https://github.com/user-attachments/assets/16a50bc2-a4c6-4245-9afa-3def4b24711f)
 
 
 
-### Gameplay Overview
-*(Drop your main gameplay image here)*
-
-### Move Highlighting in Action
-*(Drop your move highlighting image here)*
-
-*(Note: You can add or delete these image placeholders depending on how many screenshots you have!)*
 
 ## 🛠️ Tech Stack
 * **Language:** C++
